@@ -52,3 +52,35 @@
       border-bottom: 2px solid;
       padding-bottom: 2px;
     }
+
+    section {
+        padding :10px;
+    }
+
+    /*apply style to hero image*/
+.hero{
+    height: 400px;
+    background-image: url("./images/cool\ design.jpg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: flex-end;
+    flex-wrap: wrap;
+    position: relative;
+  }
+
+  .profile {
+      position: absolute;
+      top: 50px;
+      left: 30px;
+      border: 3px var(--primary-color) solid;
+      height: 300px;
+      width: 220px;
+  }
+
+  .hero h2 {
+    font-style: italic;
+    font-size: 20px;
+    color: var(--primary-color);
+    margin-top: 400px;
+  }
