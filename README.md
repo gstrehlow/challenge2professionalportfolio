@@ -18,3 +18,5 @@ SO THAT I can review samples of their work and assess whether they're a good can
 - When I am presented with the developer's first application, that application's image should be larger in size than the others
 - When I click on the images of the applications, I am taken to that deployed application
 - When I resize the page or view the site on various screens and devices, I am presented with a responsive layout that adapts to my viewport
+
+[Link to Deployed Application](https://gstrehlow.github.io/challenge2professionalportfolio/)
