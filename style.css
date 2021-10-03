@@ -148,6 +148,18 @@
   border: solid 5px var(--primary-color);  
  }
 
+ figcaption{
+  position: absolute;
+  margin-left: 5px;
+  margin-top: -20%;
+  font-size: 12px;
+  font-style: italic;
+  font-weight: bold;
+  color:  rgb(22, 44, 44);
+  border: solid 1px var(--primary-color);
+  background-color: rgb(229, 232, 238);
+}
+
 /* Contact Me Section Style*/
 .vl-border3 {
   border-right: 3px solid #39a6b2;
