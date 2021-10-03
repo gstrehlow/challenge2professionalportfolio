@@ -84,3 +84,40 @@
     color: var(--primary-color);
     margin-top: 400px;
   }
+
+  /*Work section style*/
+.about{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 20px 50px;  
+  width: 90%;
+  align-items: center;
+}
+
+.flex-row {
+  display: flex;
+  justify-content: left;
+}
+
+.section-title {
+  font-size: 35px;
+  font-family: 'Times New Roman', Times, serif;
+  color: #024e76;
+  margin: 0 0 0 80px;
+  width: 50%;
+}
+
+.step-info{
+  flex :2 20%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.vl-border2 {
+  border-left: 3px solid #39a6b2;
+  height: 150px;
+  flex: 2 1%;
+}
+
